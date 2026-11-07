@@ -1,0 +1,17 @@
+{
+  "id": "/mis-turnos-betacloude/",
+  "name": "Mis Turnos Beta",
+  "short_name": "Turnos Beta",
+  "description": "Calendario de turnos de trabajo (versión de prueba)",
+  "lang": "es",
+  "start_url": "/mis-turnos-betacloude/",
+  "scope": "/mis-turnos-betacloude/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-1.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
